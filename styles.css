@@ -1,0 +1,134 @@
+.section1{
+  background-color: #b2ebf2;
+}
+.education{
+  padding: 7% 15%;
+    text-align: center;
+
+}
+.middle{
+  background-color: #cffffe;
+}
+.middle{
+  padding: 7% 15%;
+  text-align: center;
+  font-family: 'Sansita Swashed';
+  font-size: 2rem;
+  color: white;
+}
+.skills{
+  background-color: #b2ebf2;
+  padding: 7%;
+    font-family: "Montserrat-Black";
+}
+.middle h2{
+  color: black;
+  font-weight: bold;
+}
+.top img{
+    border-radius: 100px 100px 100px 100px;
+}
+
+.top{
+  padding-left: 450px;
+  padding-top: 50px;
+}
+.info{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+  text-align: center;
+  font-family: 'Noto Sans KR', sans-serif;
+
+}
+.education table td {
+  border: 2px solid black;
+  font-family: 'Noto Sans KR', sans-serif;
+
+
+
+}
+.education{
+  padding-left: 300px;
+  text-align: center;
+font-weight: bold;
+}
+
+.carousel-control-prev , .carousel-control-next
+{
+  color : black;
+}
+
+.carousel-img{
+  padding-bottom: 1%;
+}
+.education table {
+  background-image: linear-gradient(to top, #b2ebf2, #cffffe);
+  width: 60%;
+  height: 50%;
+}
+
+.section2 {
+  background-color: #cffffe;
+}
+
+.contact {
+  padding: 5% 9%;
+  text-align: center;
+}
+
+.form {
+  padding: 7% 13%;
+  background-color: #97e5ef;
+}
+
+.car {
+  color: white;
+  text-align: center;
+  width: 150%;
+  padding-right: 10%;
+  padding-bottom: 110%;
+}
+.dropdown{
+  padding-left: 100%;
+
+}
+
+#color {
+  padding-left: 80px;
+  padding-top: 40px;
+}
+
+#edu {
+  padding-left: 80px;
+}
+
+#edu-img {
+  padding-left: 80px;
+}
+
+#item1 {
+  background-image: url('images/me1.jpg');
+}
+
+#item2 {
+  background-image: url('images/me2.jpg');
+}
+
+#item3 {
+  background-image: url('images/me3.jfif');
+}
+
+#para {
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+#age {
+  width: 22%;
+}
+
+#carousel-contact {
+  padding-left: 7%
+}
